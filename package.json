@@ -12,7 +12,7 @@
   "keywords": [
     "express",
     "expressJS",
-    "Express4"
+    "Express4",
     "demo",
     "Bootstrap",
     "seed"
@@ -22,5 +22,8 @@
     "type": "git",
     "url": "https://github.com/cflynn07/bootstrap-express4-seed-project.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.8.3"
+  }
 }
