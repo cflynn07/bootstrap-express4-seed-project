@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-express4-seed-project",
+  "version": "0.0.0",
+  "description": "A minimal starter template for a personal website / blog using Node.js, Express4, and Bootstrap 3",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "express",
+    "expressJS",
+    "Express4"
+    "demo",
+    "Bootstrap",
+    "seed"
+  ],
+  "author": "Casey Flynn <cflynn.us@gmail.com> (https://github.com/cflynn07)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cflynn07/bootstrap-express4-seed-project.git"
+  },
+  "license": "MIT"
+}
